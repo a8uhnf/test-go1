@@ -6,6 +6,6 @@ import (
 )
 
 func HelloWorld() {
-	fmt.Println("Hello World from test-go1")
+	fmt.Println("Hello World from test-go1. branch: test-dep1")
 	a.HelloWorldTestDep()
 }
