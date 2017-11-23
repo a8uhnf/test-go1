@@ -7,10 +7,10 @@ import (
 
 func HelloWorld() {
 	fmt.Println("Hello World from test-go1. branch: test-dep1")
-	a.HelloWorldMaster()
+	a.HelloWorld()
 }
 
 func HelloWorldNewWorld()  {
 	fmt.Println("Hello World from New World!!!!! Branch: test-dep1")
-	a.HelloWorldMaster()
+	a.HelloWorld()
 }
